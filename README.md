@@ -15,7 +15,7 @@ JavaScript
 
 Attractive design
 
-Operations like addition,subtraction,multiplications,division,clear,percentage.
+Operations like addition,subtraction,multiplications,division,clear,percentage
 
 Responsive
 
